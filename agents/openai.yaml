@@ -1,0 +1,4 @@
+interface:
+  display_name: "贴纸讲解剪辑"
+  short_description: "用 emoji、虹彩闪卡、手写注释和轻摆列表，让口播重点随语义自然出现"
+  default_prompt: "使用 $sticker-talk-edit 剪辑我提供的口播视频和素材。"

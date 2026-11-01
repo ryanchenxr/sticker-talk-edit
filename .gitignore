@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+outputs/
+evidence/
+references/frames/
+*.mp4
+*.mov
+*.MOV
+*.wav
+*.mp3
+*.m4a
